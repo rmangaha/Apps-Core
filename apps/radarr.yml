@@ -51,6 +51,7 @@
           - '/mnt:/mnt'
           - '/opt/appdata/{{pgrole}}:/config'
           - '/opt/appdata/sma:/usr/local/sma/config'
+          - '/opt/appdata/sma/post_process_radarr:/usr/local/sma/post_process'
     - name: 'Setting PG ENV'
       set_fact:
         pg_env:
