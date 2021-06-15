@@ -1,3 +1,3 @@
 plexinc/pms-docker:latest
 plexinc/pms-docker:beta
-plexinc/pms-docker@sha256:f2d771799ff00b34a2919a11c0f619d022a2dbcae4fc5436f195adbb3bbff851
+plexinc/pms-docker:1.12.3.4973-215c28d86
